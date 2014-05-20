@@ -1,0 +1,4 @@
+This is a pack of shaders for old-school video game emulators.
+
+Most shaders are converted from shaders written in other formats to make it
+suitable for GLES 2.0. Copyrights are held by the respective authors.
