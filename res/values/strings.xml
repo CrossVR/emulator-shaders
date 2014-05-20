@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">Emulator shaders</string>
+
+	<string-array name="shader_names">
+	    <item>HQ2x</item>
+	    <item>HQ4x</item>
+	    <item>Scanlines</item>
+	    <item>Motion blur</item>
+	    <item>Grayscale</item>
+	</string-array>
+</resources>

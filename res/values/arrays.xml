@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+   	<string-array name="shaders">
+	    <item>hq2x.shader</item>
+	    <item>hq4x.shader</item>
+	    <item>scanlines.shader</item>
+	    <item>motion-blur.shader</item>
+	    <item>grayscale.shader</item>
+	</string-array>	    
+</resources>
