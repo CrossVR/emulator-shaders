@@ -3,10 +3,11 @@
 	<string name="app_name">Emulator shaders</string>
 
 	<string-array name="shader_names">
-	    <item>HQ2x</item>
-	    <item>HQ4x</item>
-	    <item>Scanlines</item>
-	    <item>Motion blur</item>
-	    <item>Grayscale</item>
+		<item>HQ2x</item>
+		<item>HQ4x</item>
+		<item>LCD3x</item>
+		<item>Scanlines</item>
+		<item>Motion blur</item>
+		<item>Grayscale</item>
 	</string-array>
 </resources>
