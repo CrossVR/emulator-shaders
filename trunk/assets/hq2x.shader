@@ -64,7 +64,7 @@
 
       float t1 = w1 + w3;
       float t2 = w2 + w4;
-      float ww = max(t1, t2) + 0.0001;
+      float ww = max(t1, t2) + 0.001;
 
       c11 = (w1 * c00 + w2 * c20 + w3 * c22 + w4 * c02 + ww * c11) / (t1 + t2 + ww);
 
