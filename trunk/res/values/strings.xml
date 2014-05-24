@@ -5,6 +5,8 @@
 	<string-array name="shader_names">
 		<item>HQ2x</item>
 		<item>HQ4x</item>
+		<item>2xBR</item>
+		<item>4xBR</item>
 		<item>LCD3x</item>
 		<item>Scanlines</item>
 		<item>Motion blur</item>
