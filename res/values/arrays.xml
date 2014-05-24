@@ -4,6 +4,8 @@
 	<string-array name="shaders">
 		<item>hq2x.shader</item>
 		<item>hq4x.shader</item>
+		<item>2xbr.shader</item>
+		<item>4xbr.shader</item>
 		<item>lcd3x.shader</item>
 		<item>scanlines.shader</item>
 		<item>motion-blur.shader</item>
